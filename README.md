@@ -38,7 +38,7 @@ TruxTrace simulates user interactions with a Linux system executing commands, na
 
 ### Manual Install
 ```bash
-git clone https://github.com/your-username/truxtrace.git
+git clone https://github.com/MohamedMostafa010/TuxTrace/tree/main
 cd truxtrace
 python3 -m venv venv
 source venv/bin/activate
