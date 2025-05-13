@@ -131,5 +131,9 @@ Created user fake1_user with home directory /home/fake1_user
  
 ---
 
+## 📸 Output Screenshots
+
+---
+
 ## 🤝 Contributing
 - Pull requests are welcome! If you have ideas for new user profiles, simulation modes, or forensic artifacts, feel free to contribute.
