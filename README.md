@@ -133,6 +133,31 @@ Created user fake1_user with home directory /home/fake1_user
 
 ## 📸 Output Screenshots
 
+## .bashrc File Modifications: 
+<p align="center">
+  <img src="assets/Output0.png" alt="First Screenshot" width="470"/>
+</p>
+
+## .bash_history File Modifications:
+<p align="center">
+  <img src="assets/Output1.png" alt="Second Screenshot" width="270"/>
+</p>
+
+## crontab File Modifications:
+<p align="center">
+  <img src="assets/Output2.png" alt="Third Screenshot" width="270"/>
+</p>
+
+## auth.log File Modifications:
+<p align="center">
+  <img src="assets/Output3.png" alt="Fourth Screenshot" width="270"/>
+</p>
+
+## tmp Directory Modifications:
+<p align="center">
+  <img src="assets/Output4.png" alt="Fifth Screenshot" width="270"/>
+</p>
+
 ---
 
 ## 🤝 Contributing
