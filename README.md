@@ -1,6 +1,6 @@
 # TruxTrace
 
-**TruxTrace** is a powerful Linux user simulation tool designed to emulate realistic command-line behavior for single and multiple users. It enables analysts, developers, and educators to simulate Linux user activity, generate forensic artifacts, and test scenarios in a safe, controlled environment.
+- **TruxTrace** is a powerful Linux user simulation tool designed to emulate realistic command-line behavior for single and multiple users. It enables analysts, developers, and educators to simulate Linux user activity, generate forensic artifacts, and test scenarios in a safe, controlled environment.
 <p align="center">
   <img src="assets/TuxTrace.png" alt="TruxTrace banner" width="200"/>
 </p>
